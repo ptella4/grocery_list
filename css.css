@@ -1,0 +1,21 @@
+#products {
+    color: black;
+    background-color: white;
+    padding-right: 200;
+    margin-right: 100;
+}
+
+#sectionHeader {
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+
+}
+
+#header1 {
+    font-size: 50px;
+    font-variant: small-caps;
+    color: rgb(20, 21, 21);
+    text-align: center;
+}
+
